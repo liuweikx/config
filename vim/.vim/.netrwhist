@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/hepan/Downloads/mingchaonaxieshi'
+let g:netrw_dirhist_2='/home/hepan/.android/avd'
+let g:netrw_dirhist_3='/home/hepan/workspace/gitworkspace/tigerknows-location/forest'
+let g:netrw_dirhist_4='/home/hepan/workspace/gitworkspace/tigerknows-location/forest/src/algorithms'

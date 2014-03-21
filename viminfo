@@ -1,0 +1,1794 @@
+# 这个 viminfo 文件是由 Vim 7.3 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~MSle0~/recv
+
+# 最后替换的字符串
+$
+
+# 命令行 历史记录 (从新到旧)：
+:q
+:b9
+:b1
+:b7
+:b5
+:w
+:b
+:b6
+:b8
+:vi src/prodata.c
+:vi src/clueservice.c
+:vi include/tcpserver.h
+:wqa
+:b2
+:b4
+:vi src/util/tcpserver.c
+:/serve
+:wq
+:vi src/stat.c
+:278
+:141
+:vi src/algorithms/debris.c
+:116
+:q!
+:q:q
+:qa
+:vi src/util/parselogutil.c
+:151
+:684
+:qa!
+:vi src/util/myutil.c
+:1
+:B1
+:1714
+:1713
+:1700
+:1663
+:41
+:38
+:8
+:31
+:1667
+<.,.+302:53,719 [INFO] : [192.168.12.14, 211.151.97.53] {te=java&cstatus=0&dv=1&mcc=460&lt=1&vs=5.7.0.20131101A&vp=15&wifi_mac[]=4c:1f:cc:c1:32:b1&wifi_mac[]=bc:d1:77:5c:b8:66&wifi_mac[]=58:87:e2:0d:b0:d1&wifi_mac[]=78:a1:06:b6:9d:9a&wifi_mac[]=4c:1f:cc:c3:a2:8f&wifi_mac[]=1c:fa:68:0b:5d:a2&wifi_mac[]=0c:72:2c:ea:23:34&wifi_mac[]=d8:42:ac:9c:91:1c&wifi_mac[]=74:44:01:7d:55:66&wifi_mac[]=c8:3a:35:37:fd:10&wifi_mac[]=c8:3a:35:24:2f:20&wifi_mac[]=78:54:2e:fa:08:c0&wifi_mac[]=a8:15:4d:d1:e4:94&wifi_mac[]=f8:d1:11:fa:6c:44&wifi_mac[]=5a:c6:d0:b0:35:cc&wifi_mac[]=90:72:40:0f:4d:ee&wifi_mac[]=74:ea:3a:48:21:d6&wifi_mac[]=06:de:2b:0f:0a:d1&wifi_mac[]=c8:3a:35:3c:7b:58&lac=20491&ly=32.04094482421874&ec=UTF-8&lx=118.76303141276048&lfg=testgps&wifi_ss[]=-76&wifi_ss[]=-86&wifi_ss[]=-87&wifi_ss[]=-73&wifi_ss[]=-76&wifi_ss[]=-66&wifi_ss[]=-79&wifi_ss[]=-78&wifi_ss[]=-81&wifi_ss[]=-86&wifi_ss[]=-87&wifi_ss[]=-94&wifi_ss[]=-76&wifi_ss[]=-80&wifi_ss[]=-83&wifi_ss[]=-83&wifi_ss[]=-88&wifi_ss[]=-88&wifi_ss[]=-97&_x=118.757405&_y=32.042485&clientuid=d57b62d6-8a1b-4aa8-811b-0d9cc97fcc54&vd=1.0.20100619&sv=1&mnc=2&ss=20&d=460026523022160@wifi&lau=sdt:1387354765332,sdx:118761991,sdy:32044853|0,0,0,94,460.2.20491.50697@-67;0c:96:bf:ab:37:83@-85;00:3a:99:19:46:80@-96;78:f5:fd:e8:36:03@-95;00:3a:99:9f:25:80@-90;00:3a:99:9f:75:70@-95|sdt:1387359792048,sdx:118832519,sdy:32120596|0,0,0,2000,460.2.53507.24098@-57&e=869579012287259&tkServiceType=lakers&c=11&at=lm&sc=13800100500&m=TigerMapTest&sg=25&si=5$5$5$5$5&v=4&tk0101=&ci=50727&lc=11&_pt=8&uuid=c348ac55-064f-44dd-b2bf-a6371b8719d7&pk=MI 1S|IMM76D|mione_plus} 200(x=118757483,y=32042717,pt=273,source=tk),30 in [288]
+:Q
+:524
+<.,.+2247:32,456 [INFO] : [192.168.12.14, 113.140.121.68] {te=java&d=460030364567828&dv=1&e=a10000ffdae9ae&mcc=460&c=-1&at=lm&sc=13800100500&m=ANDgomarket&vs=4.01.20121109A&vp=10&wifi_mac[]=4c:b1:6c:cc:0b:2f&wifi_mac[]=7c:6d:62:a6:6a:69&wifi_mac[]=4c:b1:6c:c7:70:51&sg=25&lac=913440822&ec=UTF-8&si=5$5$5$5$5&wifi_ss[]=-91&wifi_ss[]=-89&wifi_ss[]=-93&v=4&radio_type=EVDA&ci=1366&sv=1&vd=1.0.20100619&ss=-1&mnc=3&pk=BenWee 5100S|BenWee_5100S_V1.0|msm7627a_a7_5100s_xa} 200(x=108870808,y=34144594,pt=372,source=tk),30 in [67]
+:499
+:603
+:62
+:176
+:99
+:253
+:166
+:280
+:vi include/key.h
+:572
+:b10
+:vi conf/flr.conf
+:570
+:148
+:vi include/locate.h
+:bb1
+:vi src/parselog.c
+:vi ~/prodata_filt.c
+:766
+:796
+:vi src/algorithms/filt-speedingGPS.c
+:w'
+:jjjjjk
+::b1
+:vi UserLogin/updateSoftwareRules
+:vi updateSoftwareRules
+:vi updateSoftware
+::wqa
+:vi stat_tk_locate_me_old_all
+:wA
+:746
+<.,.+1647:46,680 [INFO] : [211.140.4.181, 10.233.145.169->192.168.12.11]{at=lm&_x=118.59293&_y=35.845722&_pt=5&m=TigerMapTest&mcc=460&mnc=3&lac=914620416&ci=4961&wifi_mac[]=54:e6:fc:57:fa:d6&wifi_mac[]=c8:3a:35:2a:58:70&wifi_mac[]=c8:3a:35:52:99:b0&wifi_mac[]=20:dc:e6:d1:7d:48&wifi_mac[]=0c:72:2c:5f:c1:26&wifi_ss[]=-92&wifi_ss[]=-89&wifi_ss[]=-90&wifi_ss[]=-85&wifi_ss[]=-90&dv=1&cstatus=0&lt=0&vs=5.30.20130817A&vp=16&ly=35.82752821180554&ec=UTF-8&lx=118.59270019531255&sv=1&vd=1.0.20100619&ss=-1&d=460030975323314&e=A0000044186A5B&ttt=lakers&c=67&sc=13800100500&sg=25&si=5$5$5$5$5&v=4&tk0101=uid=386197D337986452B6023DAF02524303&lc=67&uuid=c8fed188-2a02-45c2-a776-548322c8f946&pk=SCH-I739|JZO54K.I739KEAMF1|kyleplusctc} 200(noresp),0 in [5]
+:vi 20131014daily_datamining_v110919.txt
+:vi 20131014daily_datamining_v110919
+:486
+<.,.+1647:46,680 [INFO] : [211.140.4.181, 10.233.145.169->192.168.12.11]{at=lm&_x=108.827205&_y=21.855153&_pt=4.0&m=TigerMapTest&mcc=460&mnc=3&lac=932904963&ci=35585&dv=1&lt=0&vs=4.21.20130409A&vp=10&ly=21.837402072482632&ec=UTF-8&lx=108.87147162543397&sv=1&vd=1.0.20100619&ss=-1&d=460031214298715&e=A0000040A444E2&ttt=at=s&v=4&c=1&sc=13800100500&fe=&sg=25&si=5$5$5$5$5&v=4&tk0101=uid=386197D3CFA04952E924A67A0234561C&lc=248&pk=SCH-I699|GINGERBREAD.FK20|SCH-I699} 200(noresp),0 in [5]
+:ww
+:377
+<28:41,561 [INFO] : [211.136.115.9, 10.200.148.53->192.168.12.11]{at=lm&v=4&_x=122.517804&_y=31.296226&_pt=109&e=355964045364757&d=460078051217603&mcc=460&mnc=00&lac=6342&ci=13058&ss=92&pk=0x200227DD_5.0&noresp=true&id=0&m=S60TKWWW&si=5$5$5$5$5&sg=200&sv=1&sc= 8613800518500&vs=4.00.20121105S&vd=2.00.20120322&ec=GBK&lc=2&lx=122.517813&ly=31.295621&lt=0} 200(noresp),0 in [6]
+:100000dd
+:380
+<00:27,921 [INFO] : [211.139.60.52, 10.52.11.196->192.168.12.11]{at=lm&v=4&_x=106.704819&_y=30.231308&_pt=158&e=356827028654651&d=460023230624534&mcc=460&mnc=00&lac=33199&ci=26331&ss=82&pk=0x20014DDB_3.1&noresp=true&id=0&m=S60TKWWW&si=5$5$5$5$5&sg=200&sv=1&sc= 8613800230500&vs=4.00.20121105S&vd=2.00.20120322&ec=GBK&lc=322&lx=106.704981&ly=30.231716&lt=0} 200(noresp),0 in [6] 
+:s
+:00:10,658 [INFO] : [211.139.145.97, 10.93.141.120->192.168.12.11]{at=lm&v=4&wifi_mac[]=14:e6:e4:c6:27:e2&wifi_mac[]=68:1a:b2:00:1f:70&wi
+:vi Downloads/20130910daily_datamining_v110919.txt
+:waq
+:A
+:we
+:200dd`
+:vi main.php
+:vi ../answer/CakeArrayAnswer.php
+:vi ../cake/Cake.php
+:vi ../cake/LocationCake.php
+:vi ../cake/CommonCodeCake.php
+:vi service/LocateMeServiceV4.php
+:vi ../locateme/util/encrypter.php
+:vi ../../util/MyArgs.php
+:vi ../../service/StringParameterService.php
+:53500
+:54000
+:53000
+:52000
+:55000
+:50000
+:5500
+:500000
+:vi 08-13-location
+:vi service/LocateMeAPIServiceV4.php
+:vi ../util/util.php
+:vi service/LocateMeServiceV1.php
+:vi ../logger/MyLogger.php
+:vi src/locateme/answer/LocalAnswerV5.php
+:vi src/rgc/GeoCoder.php
+:vi answer/LocalAnswerV1.php
+:b:b2
+:vi ../util/MyArgs.php
+:vi ../service/StringParameterService.php
+::::
+:vi src/answer/CakeArrayAnswer.php
+:vi src/cake/Cake.php
+:vi src/cake/CommonCodeCake.php
+:vi src/locateme/service/LocateMeServiceV4.php
+:vi src/locateme/answer/LocalAnswerV1.php
+:vi src/locateme/util/transform_coordinate.php
+:vi src/locateme/answer/LocalAnswerV2.php
+:vi src/locateme/service/LocateMeServiceV2.php
+:vi src/locateme/main.php
+:vi Downloads/2013-07-24_smart_feedback.txt
+:vi Downloads/20130723daily_datamining_v110919.txt
+:vi ../../config/api.properties
+:vi 20130718daily_datamining_v110919.txt
+:vi ~/20130717daily_datamining_v110919.txt
+:vi script/filter.sh
+:219
+:1608
+:1557
+:Pwqa
+:815
+:808
+:.,.+2808
+:802
+:b12
+:vi ~/test
+:vi src/util/famhmap.c
+:vi src/model/key.c
+:vi src/util/mycache.c
+:68
+:vi test/mycache.c
+:429
+:2
+:7
+:vi ../LocateMeServiceFactory.php
+:vi ../main.php
+:vi ../../writer/BinaryWriter.php
+:vi ../answer/LocalAnswerV1.php
+:461
+:vi LocateMeServiceV5.php
+:vi LocateMeServiceV4.php
+:vi LocateMeServiceV2.php
+:waa
+:vi locateme/locator/Locator.php
+:vi locateme/answer/LocalAnswerV2.php
+:vi writer/BinaryWriter.php
+:vi locateme/answer/LocalAnswerV1.php
+:vi cake/CommonCodeCake.php
+:&v=
+:vi testconfig
+:qw
+:a
+::q
+: vi src/parselog.c
+:835
+:829
+
+# 查找字符串 历史记录 (从新到旧)：
+?/recv
+?/cond_lock
+?/_serve
+?/:b1
+?/_init
+?/tst
+?/start
+?/tcpclient_send_norm
+?/length
+?/buffer
+?/nei_calc
+?/type
+?/serve
+?/pthreadlock
+?/onh
+?/init
+?/getback
+? serve
+?/aodhand_serve
+?/gps_calc
+?/gps_ca
+?/calcgps
+?/dq
+?/no
+?/44:94:fc:35:f9:21
+?/city
+?/filtby
+?/三明
+?/860923020726123
+?/211.139.151.74
+?/distanc
+?/distance
+?/cleanfiles
+?/clearda
+?/newflrpath
+?/newpath
+?/cleardata
+?/dealcorlog
+?/key_mapper
+?/exception
+?/exception data
+?/getkeylist
+?/getktype
+?/value
+?/getkey
+?/index
+?/getlogtype
+?/dealcor
+?/str_cat
+?/dump
+?/FILENUM
+?/formatgps
+?/scanbytes
+?/addkeytype
+?/scancalc(
+?/scancalc
+?/datap
+?/cleanfile
+?/addkt
+?/flag
+?/simple_cache_put
+?/insertdata
+?/FLR_NEW
+?/new version
+?/never
+?/interval
+?/scann
+?/scan
+?/sim
+?/why
+?/filename
+?/transgp
+?/why is
+?/updategps
+?/filo
+?/boot
+?/vs
+?/lau=
+?/mnc
+?/_x=
+?/_x
+?/TigerMapTest
+?/testgps
+?/printne
+?/deallog
+?/corlog
+?/config_load
+?/main
+?/stat
+?/calcnei(
+?/formatgps(
+?/addkey
+?/calcgps(
+?/printR
+?/key_mapper(
+?/scanb
+?/formatgpsbytes
+?/65535
+?/final calc
+?/scannewkeys
+?/final
+?/fina
+?/simple_cache_save
+?/simple_cache_create
+?/scanbytes(
+?/scanbyt
+?/simple_memblock_save
+?/simple_mem
+?/transgps
+?/mergeddata
+?/num
+?/mergedlen
+?/gps_bytes_merge_clean_disk
+?/gps_merge_clean
+?/oldlen
+?/gps
+?/00:00:00:00
+? \<1984\>
+?/neilistfilt
+?/gpslistfilt
+?/uu
+?/getkeyinfo
+?/gpsfilted
+?/dealco
+?/debris_calc_clue_gps
+?/debris_sa
+?/keys
+?/scan_calc
+?/debris_samples2clue
+?/calcnei
+?/kt
+?/key
+?/key_map
+?/key_factory
+?/free(c
+?/gpslistf
+?/ikey
+?/timenow
+?/aodserver_de
+?/excep
+?/parseline
+?/200
+?/ne
+?/debris_calc_clue_nei
+?/speeding_
+?/keys_load
+?/load
+?/key_load
+?/transkey
+?/addkeytype2flr
+? \<prodata_calcgps_arg\>
+? \<calcgps\>
+? \<fclue_gps\>
+?/lac
+?/An
+? \<settings\>
+?/_xdd
+?/tk
+?/ci
+?/v=4
+?/wifi
+?/pt=
+?/A
+?/A&
+?/Tige
+?/Tiger
+?/fopen
+?/n
+?/beijing
+?/shanghai
+?/calcnewkeys
+?/:q
+?/getS
+?/mutex
+?/v=
+?/locate_by_tk
+?/get_loca
+?/38:83:45:c0:74:4c
+?/4932
+?/ci=
+?/54142
+?/mcc
+?/&v=
+?/2013-08-17 00:00:40,379
+?/2013-08-17 00:00:40,379 [INFO] : [183.187.138.181->192.168.12.11]{at=lm&v=4&lc=295&lx=112.55640814887147&ly=37.433980
+?/定位
+?/##
+?/大结局
+?/LocateMeAPI
+?/getL
+?/getTKP
+?/wgtochina_lb
+?/transform_coordinate
+?/transform_yj5
+?/getLocateMeServiceByVersion
+?/getTKLocateMe
+?/calc
+?/parse_item
+?/distance(
+?/get_weight
+?/locate
+?/get_locations
+?/getSim
+?/getSimular
+?/simularkeys
+?/write
+?/format
+?/cleankey
+?/for
+?/reindex
+?/geti2s
+?/RW_
+?/hput
+?/keys_loca
+?/cache_get_wl
+?/gets2ikey
+?/calc key
+?/prodata_calcgps_getback
+?/printgpsresult
+?/print
+?/updatenei
+?/printgps
+?/cache
+?/cache_remove
+?/rec
+?/cache_get
+?/putinto
+?/cache_put
+?/pos +=
+?/clean
+?/srbuffer_print
+?/srniffer_print
+?/SPFILT_STR_BUFFER_SIZE
+?/line_parser
+?/插件
+?/maven
+?/getLocateMeAPIS
+?/throw
+?/ANGLE_TO_METER
+?/get_w
+?/calculate_loca
+?/calculate_location
+?/getsim
+?/get_weigh
+?/TigerMa
+?/ci[]
+?/Ti
+?/ID_1126
+?/ID_1151
+?/2013-0010-01:05:12:15
+?/q
+?/wifi_
+?/&e=
+?/2013-11-12:12:37:38
+?/nei_create
+?/clue_
+?/clue_creat
+?/gpslistfit
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+"0	LINE	0
+	            if (finalneilist->size != 0)
+"1	LINE	0
+	3 # http://client.tigerknows.net/pic/startpic/green.png # 2014-01-14 11:00:00 # 2014-03-04 00:00:00
+"2	LINE	0
+	
+"3	LINE	0
+	
+"4	LINE	0
+	
+"5	LINE	0
+	
+"6	LINE	0
+	
+"7	LINE	0
+	515
+<14-01-12 00:00:08 INFO: [192.168.12.14, 113.233.152.3] 0ms {dv=0, mcc=460, mac=94:94:26:72:7D:0E, vs=5.32.20131219I, lt=2, ec=UTF-8, lac=2255, clientuid=0BB11E5E-E838-490F-8EA7-BA3FD095940D, vd=2.00.20100124, sv=1, mnc=02, ss=82, d=460021234567890, e=94:94:26:72:7D:0E, tkServiceType=lakers, lip=2014-01-12 00:00:09,123.385155,41.784592,65.0, c=0, at=f, sc=8613800100500, m=IPHAppStore, my=30.300056, sg=25, si=5$5$5$5$5, v=13, tk0101=uid=386197D3886AD15216639A7202EB620F, ci=20582, lc=21, pk=iPhone6.0.1} [TODO]
+"8	LINE	0
+	        int writeflag = 0;
+"9	LINE	0
+	    int writeflag = 0;
+""-	CHAR	0
+	r
+
+# 文件标记:
+'0  8  0  ~/workspace/gitworkspace/tigerknows-location/bin/location
+'1  95  4  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+'2  16  24  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+'3  34  0  ~/workspace/gitworkspace/tigerknows-location/forest/include/tcpserver.h
+'4  90  14  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+'5  70  13  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/aod.c
+'6  59  0  ~/workspace/gitworkspace/tigerknows-location/forest/include/aod.h
+'7  184  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/aod.c
+'8  5  0  ~/test
+'9  2  0  ~/test
+
+# 跳转列表 (从新到旧):
+-'  8  0  ~/workspace/gitworkspace/tigerknows-location/bin/location
+-'  1  0  ~/workspace/gitworkspace/tigerknows-location/bin/location
+-'  95  4  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+-'  106  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+-'  12  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  132  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpclient.c
+-'  439  12  ~/workspace/gitworkspace/tigerknows-location/forest/src/model/clue.c
+-'  743  31  ~/workspace/gitworkspace/tigerknows-location/forest/src/prodata.c
+-'  41  36  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  218  40  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  215  38  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  178  34  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  97  33  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  168  36  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  167  55  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  162  34  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  109  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  50  0  ~/workspace/gitworkspace/tigerknows-location/forest/include/tcpserver.h
+-'  21  18  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  261  4  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  152  55  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  64  0  ~/workspace/gitworkspace/tigerknows-location/forest/include/tcpserver.h
+-'  82  9  ~/workspace/gitworkspace/tigerknows-location/forest/include/tcpserver.h
+-'  39  0  ~/workspace/gitworkspace/tigerknows-location/forest/include/tcpserver.h
+-'  140  15  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  275  4  ~/workspace/gitworkspace/tigerknows-location/forest/src/model/clue.c
+-'  52  8  ~/workspace/gitworkspace/tigerknows-location/forest/src/clueservice.c
+-'  45  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  113  0  ~/workspace/gitworkspace/tigerknows-location/forest/include/clue.h
+-'  51  15  ~/workspace/gitworkspace/tigerknows-location/forest/src/clueservice.c
+-'  244  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  329  8  ~/workspace/gitworkspace/tigerknows-location/forest/src/model/clue.c
+-'  260  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/model/clue.c
+-'  90  14  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  148  35  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  146  26  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  42  0  ~/workspace/gitworkspace/tigerknows-location/forest/include/tcpserver.h
+-'  278  0  /usr/include/pthread.h
+-'  221  19  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  131  49  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  62  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+-'  203  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  182  16  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  78  8  ~/workspace/gitworkspace/tigerknows-location/forest/src/clueservice.c
+-'  436  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/model/clue.c
+-'  6  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+-'  194  4  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  40  10  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+-'  115  11  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpclient.c
+-'  424  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/model/clue.c
+-'  42  16  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+-'  61  24  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+-'  54  20  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+-'  39  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+-'  39  0  ~/workspace/gitworkspace/tigerknows-location/forest/include/tcp.h
+-'  70  39  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+-'  28  0  ~/workspace/gitworkspace/tigerknows-location/forest/include/tcp.h
+-'  51  19  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+-'  449  4  ~/workspace/gitworkspace/tigerknows-location/forest/src/model/clue.c
+-'  855  26  ~/workspace/gitworkspace/tigerknows-location/forest/src/prodata.c
+-'  1124  8  ~/workspace/gitworkspace/tigerknows-location/forest/src/prodata.c
+-'  1088  12  ~/workspace/gitworkspace/tigerknows-location/forest/src/prodata.c
+-'  1061  16  ~/workspace/gitworkspace/tigerknows-location/forest/src/prodata.c
+-'  848  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/prodata.c
+-'  1  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/prodata.c
+-'  120  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  258  14  ~/workspace/gitworkspace/tigerknows-location/forest/src/model/clue.c
+-'  1  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/clueservice.c
+-'  183  12  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  193  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  95  4  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+-'  106  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+-'  12  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  132  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpclient.c
+-'  439  12  ~/workspace/gitworkspace/tigerknows-location/forest/src/model/clue.c
+-'  743  31  ~/workspace/gitworkspace/tigerknows-location/forest/src/prodata.c
+-'  41  36  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  218  40  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  215  38  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  178  34  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  97  33  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  168  36  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  167  55  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  162  34  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  109  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  50  0  ~/workspace/gitworkspace/tigerknows-location/forest/include/tcpserver.h
+-'  21  18  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  261  4  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  152  55  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  64  0  ~/workspace/gitworkspace/tigerknows-location/forest/include/tcpserver.h
+-'  82  9  ~/workspace/gitworkspace/tigerknows-location/forest/include/tcpserver.h
+-'  39  0  ~/workspace/gitworkspace/tigerknows-location/forest/include/tcpserver.h
+-'  140  15  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  275  4  ~/workspace/gitworkspace/tigerknows-location/forest/src/model/clue.c
+-'  52  8  ~/workspace/gitworkspace/tigerknows-location/forest/src/clueservice.c
+-'  45  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  113  0  ~/workspace/gitworkspace/tigerknows-location/forest/include/clue.h
+-'  51  15  ~/workspace/gitworkspace/tigerknows-location/forest/src/clueservice.c
+-'  244  0  ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+-'  329  8  ~/workspace/gitworkspace/tigerknows-location/forest/src/model/clue.c
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/workspace/gitworkspace/tigerknows-location/bin/location
+	"	8	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpserver.c
+	"	12	0
+	^	261	4
+	.	261	0
+	+	261	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/include/tcpserver.h
+	"	50	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/-MiniBufExplorer-
+	"	1	100
+	.	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/include/tcpclient.h
+	"	35	4
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/clueservice.c
+	"	52	8
+	^	29	18
+	.	29	17
+	+	30	19
+	+	30	0
+	+	32	0
+	+	30	36
+	+	32	20
+	+	32	0
+	+	30	0
+	+	32	0
+	+	31	11
+	+	32	3
+	+	29	17
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/model/clue.c
+	"	439	12
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/prodata.c
+	"	743	31
+	^	911	14
+	.	911	13
+	+	1770	51
+	+	1761	16
+	+	1762	61
+	+	1716	9
+	+	1753	0
+	+	1767	17
+	+	1768	38
+	+	971	0
+	+	1732	34
+	+	1756	12
+	+	1011	0
+	+	1009	0
+	+	1747	21
+	+	1767	9
+	+	1771	9
+	+	1770	0
+	+	1768	8
+	+	1775	29
+	+	1785	0
+	+	1797	0
+	+	1804	0
+	+	1796	0
+	+	1803	8
+	+	1797	0
+	+	1801	24
+	+	1802	0
+	+	1794	0
+	+	1747	0
+	+	1749	0
+	+	1758	0
+	+	1789	24
+	+	1792	0
+	+	912	0
+	+	914	0
+	+	912	0
+	+	890	29
+	+	891	63
+	+	892	70
+	+	806	0
+	+	807	2
+	+	808	66
+	+	810	60
+	+	845	0
+	+	845	1
+	+	812	0
+	+	814	30
+	+	817	36
+	+	818	12
+	+	819	25
+	+	892	26
+	+	808	50
+	+	809	15
+	+	831	0
+	+	828	15
+	+	832	36
+	+	834	25
+	+	840	74
+	+	841	50
+	+	842	33
+	+	840	0
+	+	836	46
+	+	829	15
+	+	831	0
+	+	830	60
+	+	844	0
+	+	836	84
+	+	837	66
+	+	840	0
+	+	840	0
+	+	838	51
+	+	839	37
+	+	829	18
+	+	833	51
+	+	836	70
+	+	837	59
+	+	838	28
+	+	839	36
+	+	841	28
+	+	842	37
+	+	896	59
+	+	897	52
+	+	893	20
+	+	910	29
+	+	911	29
+	+	845	0
+	+	908	0
+	+	904	0
+	+	905	55
+	+	906	48
+	+	892	13
+	+	890	13
+	+	891	13
+	+	903	0
+	+	902	0
+	+	903	0
+	+	902	16
+	+	890	13
+	+	901	13
+	+	910	13
+	+	911	13
+	n	963	23
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcpclient.c
+	"	132	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/util/tcp.c
+	"	95	4
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/include/tcp.h
+	"	39	0
+
+> /usr/include/pthread.h
+	"	278	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/include/clue.h
+	"	113	0
+
+> /usr/include/netinet/in.h
+	"	177	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/util/aod.c
+	"	70	13
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/include/aod.h
+	"	59	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/include/myutil.h
+	"	41	12
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/util/myutil.c
+	"	51	0
+
+> ~/test
+	"	5	0
+	^	5	1
+	.	5	0
+	+	1	3
+	+	1	0
+	+	1	3
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	6
+	+	1	2
+	+	1	7
+	+	1	4
+	+	1	399
+	+	1	37
+	+	1	57
+	+	1	2
+	+	1	1793
+	+	1	0
+	+	1	712
+	+	1	150
+	+	1	300
+	+	1	450
+	+	1	600
+	+	1	586
+	+	1	692
+	+	1	889
+	+	1	150
+	+	1	300
+	+	1	0
+	+	1	450
+	+	1	600
+	+	1	750
+	+	1	989
+	+	1	150
+	+	1	300
+	+	1	450
+	+	1	600
+	+	1	750
+	+	1	900
+	+	1	687
+	+	1	509
+	+	1	150
+	+	30	0
+	+	1	987
+	+	1	528
+	+	1	2088
+	+	1	650
+	+	1	1672
+	+	1	2
+	+	1	2
+	+	2	1
+	+	5	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/script/update.sh
+	"	35	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/script/update
+	"	1	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/stat.c
+	"	221	0
+	^	358	4
+	.	358	3
+	+	197	17
+	+	200	24
+	+	201	0
+	+	206	4
+	+	207	4
+	+	215	4
+	+	216	0
+	+	229	0
+	+	230	0
+	+	231	3
+	+	233	4
+	+	237	8
+	+	239	8
+	+	263	3
+	+	282	4
+	+	293	3
+	+	295	4
+	+	299	8
+	+	300	3
+	+	302	4
+	+	303	8
+	+	310	12
+	+	322	37
+	+	340	15
+	+	343	4
+	+	344	4
+	+	345	4
+	+	346	7
+	+	342	8
+	+	343	8
+	+	345	8
+	+	358	3
+
+> /opt/CormorantData/UserLogin/startPic
+	"	9	27
+	^	9	28
+	.	9	27
+	+	1	8
+	+	1	22
+	+	1	4
+	+	1	67
+	+	1	79
+	+	1	70
+	+	1	5
+	+	1	73
+	+	1	71
+	+	1	84
+	+	1	70
+	+	1	74
+	+	1	76
+	+	1	88
+	+	1	73
+	+	1	83
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	61
+	+	1	0
+	+	1	38
+	+	1	50
+	+	1	30
+	+	1	31
+	+	1	74
+	+	11	0
+	+	6	5
+	+	8	10
+	+	10	0
+	+	9	16
+	+	6	7
+	+	7	8
+	+	6	93
+	+	9	17
+	+	7	32
+	+	8	7
+	+	9	9
+	+	7	33
+	+	9	27
+
+> ~/workspace/gitworkspace/tigerknows-bootstrap/.git/COMMIT_EDITMSG
+	"	2	0
+	^	2	0
+	.	1	27
+	+	1	17
+	+	1	27
+
+> ~/workspace/gitworkspace/tigerknows-location/.git/COMMIT_EDITMSG
+	"	2	0
+	^	2	0
+	.	1	20
+	+	87	9
+	+	1	17
+	+	1	45
+	+	77	35
+	+	1	11
+	+	1	12
+	+	1	0
+	+	1	28
+	+	35	21
+	+	1	0
+	+	1	53
+	+	1	33
+	+	21	33
+	+	1	17
+	+	1	65
+	+	1	65
+	+	1	76
+	+	1	20
+
+> ~/Downloads/fe_2014-02-10.csv
+	"	14	0
+	^	86	2
+	.	86	1
+	+	3	1
+	+	12	1
+	+	14	1
+	+	17	1
+	+	21	1
+	+	39	1
+	+	40	1
+	+	42	1
+	+	44	1
+	+	46	1
+	+	47	1
+	+	48	1
+	+	50	1
+	+	52	1
+	+	60	1
+	+	71	1
+	+	73	1
+	+	74	1
+	+	75	1
+	+	81	1
+	+	86	1
+
+> ~/Downloads/fe_2014-01-24.csv
+	"	57	119
+	^	45	9
+	.	45	8
+	+	4	2
+	+	7	2
+	+	16	2
+	+	19	2
+	+	22	2
+	+	27	2
+	+	43	2
+	+	44	2
+	+	45	2
+	+	46	2
+	+	47	2
+	+	48	2
+	+	53	2
+	+	58	2
+	+	61	2
+	+	68	6
+	+	72	2
+	+	79	2
+	+	16	7
+	+	19	9
+	+	45	8
+
+> ~/Downloads/fe_2014-01-23.csv
+	"	111	2
+	^	109	3
+	.	109	2
+	+	4	2
+	+	7	2
+	+	9	2
+	+	19	2
+	+	18	2
+	+	21	2
+	+	23	2
+	+	62	2
+	+	65	2
+	+	70	2
+	+	71	2
+	+	72	2
+	+	73	2
+	+	78	7
+	+	88	2
+	+	93	2
+	+	109	2
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/algorithms/debris.c
+	"	128	0
+	^	42	119
+	.	42	118
+	+	165	24
+	+	42	118
+
+> ~/Downloads/fe_2014-01-22.csv
+	"	90	3
+	^	90	7
+	.	90	6
+	+	18	2
+	+	27	2
+	+	38	2
+	+	40	2
+	+	46	2
+	+	49	2
+	+	50	0
+	+	51	2
+	+	53	2
+	+	78	2
+	+	79	2
+	+	90	6
+
+> ~/Downloads/fe_2014-01-21.csv
+	"	25	0
+	^	91	0
+	.	90	84
+	+	4	0
+	+	15	105
+	+	18	79
+	+	24	145
+	+	30	85
+	+	32	80
+	+	34	136
+	+	51	105
+	+	53	77
+	+	55	72
+	+	57	109
+	+	59	75
+	+	65	80
+	+	71	78
+	+	90	84
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/include/locate.h
+	"	50	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/model/locate.c
+	"	72	0
+	^	572	20
+	.	572	19
+	+	570	23
+	+	571	5
+	+	572	71
+	+	573	39
+	+	574	78
+	+	575	29
+	+	576	5
+	+	577	0
+	+	569	0
+	+	574	13
+	+	579	16
+	+	572	19
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/include/key.h
+	"	68	0
+	^	82	30
+	.	82	29
+	+	82	29
+
+> ~/Downloads/fe_2014-01-20.csv
+	"	12	0
+	^	37	0
+	.	36	98
+	+	5	75
+	+	7	116
+	+	15	88
+	+	17	112
+	+	3	91
+	+	8	127
+	+	10	92
+	+	8	0
+	+	11	0
+	+	18	0
+	+	25	82
+	+	30	65
+	+	33	118
+	+	49	142
+	+	53	90
+	+	55	73
+	+	56	0
+	+	56	102
+	+	64	217
+	+	67	129
+	+	69	131
+	+	75	131
+	+	79	101
+	+	84	112
+	+	90	127
+	+	95	77
+	+	36	98
+
+> ~/testlog
+	"	1	0
+	^	1	300
+	.	1	300
+	+	1	435
+	+	1	0
+	+	1	0
+	+	1	104
+	+	1	0
+	+	1	246
+	+	1	456
+	+	1	101
+	+	1	243
+	+	1	385
+	+	1	872
+	+	1	704
+	+	1	479
+	+	1	526
+	+	1	538
+	+	1	490
+	+	1	606
+	+	1	0
+	+	1	543
+	+	1	393
+	+	1	243
+	+	1	93
+	+	1	561
+	+	1	0
+	+	1	545
+	+	1	395
+	+	1	245
+	+	1	95
+	+	1	545
+	+	1	395
+	+	1	245
+	+	1	95
+	+	1	779
+	+	1	693
+	+	1	543
+	+	1	393
+	+	1	243
+	+	1	93
+	+	1	138
+	+	1	626
+	+	1	0
+	+	1	352
+	+	1	1002
+	+	1	860
+	+	1	861
+	+	1	757
+	+	1	527
+	+	1	150
+	+	1	0
+	+	1	150
+	+	1	571
+	+	1	461
+	+	1	303
+	+	1	303
+	+	1	150
+	+	1	138
+	+	1	2030
+	+	1	2030
+	+	1	1872
+	+	1	1714
+	+	1	1556
+	+	1	1398
+	+	1	1240
+	+	1	1082
+	+	1	924
+	+	1	766
+	+	1	608
+	+	1	450
+	+	1	292
+	+	1	138
+	+	1	1636
+	+	1	1823
+	+	1	1611
+	+	1	699
+	+	1	2465
+	+	1	750
+	+	1	750
+	+	1	119
+	+	1	54
+	+	1	119
+	+	1	642
+	+	1	588
+	+	1	431
+	+	1	273
+	+	1	119
+	+	1	1464
+	+	1	963
+	+	1	217
+	+	1	147
+	+	1	789
+	+	1	150
+	+	3	23
+	+	1	710
+	+	1	377
+	+	1	501
+	+	1	595
+	+	1	150
+	+	1	417
+	+	1	150
+	+	1	300
+
+> ~/Downloads/fe_2014-01-17.csv
+	"	98	61
+
+> ~/Downloads/fe_2014-01-18.csv
+	"	1	0
+
+> ~/Downloads/fe_2014-01-19.csv
+	"	118	0
+
+> ~/Downloads/fe_2014-01-16.csv
+	"	53	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/NERD_tree_2
+	"	6	0
+	.	1	0
+	+	1	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/model/sample.c
+	"	371	0
+
+> ~/Downloads/fe_2014-01-15.csv
+	"	61	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/include/flrfs.h
+	"	93	0
+
+> ~/xx
+	"	1	0
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/util/flrfs.c
+	"	692	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/script/countcode.sh
+	"	1	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/parselog.c
+	"	739	1
+	^	684	52
+	.	684	51
+	+	846	3
+	+	123	0
+	+	129	0
+	+	128	0
+	+	120	61
+	+	134	46
+	+	135	0
+	+	140	45
+	+	141	0
+	+	146	45
+	+	147	0
+	+	152	9
+	+	153	0
+	+	820	14
+	+	888	10
+	+	80	35
+	+	80	16
+	+	80	0
+	+	80	0
+	+	80	0
+	+	833	20
+	+	835	19
+	+	381	0
+	+	375	10
+	+	379	19
+	+	80	0
+	+	734	22
+	+	736	19
+	+	735	35
+	+	682	23
+	+	683	0
+	+	682	23
+	+	683	45
+	+	684	51
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/util/parselogutil.c
+	"	150	15
+	.	154	0
+	+	130	22
+	+	130	22
+	+	130	0
+	+	120	0
+	+	150	34
+	+	150	0
+	+	154	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/model/key.c
+	"	224	0
+	^	666	86
+	.	666	83
+	+	103	22
+	+	667	32
+	+	668	17
+	+	719	22
+	+	666	83
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/include/parselogutil.h
+	"	55	0
+
+> ~/result
+	"	49	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/util/mycache.c
+	"	93	22
+	^	587	49
+	.	587	49
+	+	571	0
+	+	587	49
+
+> ~/workspace/testspace/xx.c
+	"	1	0
+	^	19	15
+	.	19	15
+	+	6	24
+	+	23	14
+	+	27	29
+	+	31	29
+	+	33	0
+	+	26	0
+	+	28	0
+	+	30	0
+	+	32	0
+	+	33	22
+	+	27	27
+	+	31	27
+	+	33	21
+	+	19	15
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/include/common.h
+	"	40	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/util/t_file.c
+	"	68	0
+
+> ~/.ssh/known_hosts
+	"	41	0
+	.	42	0
+	+	8	0
+	+	38	0
+	+	41	0
+	+	42	0
+
+> ~/testconfig
+	"	1	31
+	^	1	32
+	.	1	31
+	+	1	34
+	+	6	8
+	+	1	36
+	+	5	35
+	+	1	38
+	+	6	8
+	+	5	35
+	+	1	31
+	+	5	35
+	+	1	61
+	+	3	9
+	+	1	18
+	+	1	31
+	+	1	30
+	+	3	8
+	+	1	31
+
+> ~/.bashrc
+	"	3	16
+	^	3	17
+	.	3	16
+	+	1	72
+	+	3	16
+
+> ~/workspace/gitworkspace/tigerknows-quantum/.gitignore
+	"	5	0
+	^	5	10
+	.	5	9
+	+	5	9
+
+> ~/workspace/gitworkspace/testcode/tigerknows-bootstrap/.git/COMMIT_EDITMSG
+	"	1	16
+	^	1	17
+	.	1	16
+	+	1	16
+
+> ~/workspace/gitworkspace/testcode/tigerknows-bootstrap/.git/config
+	"	6	14
+	^	6	15
+	.	6	14
+	+	6	14
+
+> ~/workspace/gitworkspace/testcode/tigerknows-bootstrap/test
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
+
+> ~/workspace/gitworkspace/testcode/tigerknows-quantum/.git/COMMIT_EDITMSG
+	"	2	0
+	^	2	0
+	.	1	18
+	+	1	18
+
+> ~/workspace/gitworkspace/testcode/tigerknows-quantum/.git/config
+	"	6	13
+	^	6	14
+	.	6	13
+	+	7	15
+	+	6	13
+
+> ~/workspace/gitworkspace/testcode/tigerknows-quantum/test
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/workspace/gitworkspace/tigerknows-quantum/.git/COMMIT_EDITMSG
+	"	2	0
+	^	2	0
+	.	1	20
+	+	1	20
+
+> ~/workspace/gitworkspace/tigerknows-quantum/pom.xml
+	"	1	0
+	^	6	21
+	.	127	0
+	+	6	20
+	+	127	0
+
+> ~/workspace/javaworkspace/quantum/pom.xml
+	"	1	0
+
+> ~/workspace/javaworkspace/quantum/.git/COMMIT_EDITMSG
+	"	2	0
+	^	2	0
+	.	1	57
+	+	1	57
+
+> ~/workspace/javaworkspace/quantum/.git/config
+	"	6	15
+	^	6	16
+	.	6	15
+	+	6	15
+
+> ~/workspace/gitworkspace/tigerknows-bootstrap/.git/config
+	"	1	0
+
+> ~/workspace/gitworkspace/tigerknows-bootstrap/.gitignore
+	"	1	0
+
+> ~/workspace/javaworkspace/quantum/.gitignore
+	"	4	9
+	^	4	10
+	.	4	9
+	+	1	7
+	+	5	0
+	+	2	0
+	+	3	8
+	+	4	9
+
+> ~/workspace/gitworkspace/tigerknows-quantum/src/main/resources/log4j.properties
+	"	1	22
+	^	1	22
+	.	1	0
+	+	5	41
+	+	1	0
+
+> ~/workspace/gitworkspace/tigerknows-filoplumes/.git/config
+	"	1	0
+
+> ~/workspace/gitworkspace/tigerknows-location/.git/config
+	"	1	0
+
+> ~/test1
+	"	1	0
+
+> ~/testdir/tiger-20131218/collect-wifi-20131218.txt
+	"	61269	0
+
+> ~/workspace/gitworkspace/tigerknows-location/indigo/docs/databaseStatis Design
+	"	1	0
+
+> ~/workspace/gitworkspace/tigerknows-location/indigo/docs/algorithm.txt
+	"	30	0
+
+> ~/workspace/gitworkspace/tigerknows-location/indigo/docs/client_rules
+	"	1	3
+
+> ~/workspace/gitworkspace/tigerknows-location/indigo/docs/how to get feedback_analyse
+	"	24	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/Makefile
+	"	23	76
+	^	23	77
+	.	23	77
+	+	23	77
+
+> ~/guntest
+	"	5	0
+	^	5	0
+	.	4	3
+	+	4	3
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/script/parselog.sh
+	"	1	0
+
+> ~/temp/tigerknows-forest/conf/log.conf
+	"	1	0
+
+> ~/temp/tigerknows-forest/src/parselog.c
+	"	499	31
+	^	499	32
+	.	499	31
+	+	751	21
+	+	495	27
+	+	499	37
+	+	603	15
+	+	788	21
+	+	499	25
+	+	603	5
+	+	499	31
+
+> ~/temp/tigerknows-forest/include/parselogutil.h
+	"	44	0
+
+> ~/temp/tigerknows-forest/-MiniBufExplorer-
+	"	1	0
+	.	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/script/filter.sh
+	"	1	0
+
+> ~/testdir/splitfile.sh
+	"	1	0
+	^	11	11
+	.	11	11
+	+	25	38
+	+	6	0
+	+	2	0
+	+	3	27
+	+	19	20
+	+	3	9
+	+	14	31
+	+	13	0
+	+	14	24
+	+	15	29
+	+	16	35
+	+	19	43
+	+	21	43
+	+	22	13
+	+	18	23
+	+	19	47
+	+	20	1
+	+	18	23
+	+	19	0
+	+	16	0
+	+	9	29
+	+	10	25
+	+	12	1
+	+	9	19
+	+	11	11
+	+	10	32
+	+	11	11
+
+> ~/testdir/test1
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> ~/testdir/test00
+	"	1	0
+
+> ~/testdir/test
+	"	1	0
+	^	4	2
+	.	4	1
+	+	1	1
+	+	1	2
+	+	4	1
+
+> ~/splitfile.sh
+	"	8	7
+	^	8	8
+	.	8	7
+	+	4	44
+	+	5	19
+	+	3	0
+	+	5	19
+	+	4	5
+	+	5	19
+	+	6	19
+	+	3	0
+	+	8	14
+	+	7	12
+	+	6	6
+	+	7	22
+	+	8	27
+	+	3	5
+	+	8	7
+
+> ~/Downloads/xxx.test
+	"	3	8
+	^	3	9
+	.	3	9
+	+	1	0
+	+	6	0
+	+	1	0
+	+	2	0
+	+	1	0
+	+	2	0
+	+	1	0
+	+	2	0
+	+	6	0
+	+	2	0
+	+	1	0
+	+	2	0
+	+	1	1
+	+	2	0
+	+	1	0
+	+	6	0
+	+	4	9
+	+	5	3
+	+	6	0
+	+	3	9
+	+	1	0
+	+	3	9
+
+> ~/temp
+	"	8	0
+	^	2	1
+	.	8	0
+	+	1	23
+	+	11	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	v	1	0
+
+> ~/workspace/gitworkspace/tigerknows-location/forest/src/util/config.c
+	"	101	0
+	.	186	0
+	+	186	61
+	+	186	0
